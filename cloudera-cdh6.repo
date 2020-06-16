@@ -1,0 +1,5 @@
+[cloudera-cdh6]
+name=Cloudera's Distribution for Hadoop, Version 6
+baseurl=https://archive.cloudera.com/cdh6/6.3.2/redhat7/yum/
+gpgkey =https://archive.cloudera.com/cdh6/6.3.2/redhat7/yum/RPM-GPG-KEY-cloudera
+gpgcheck = 0
